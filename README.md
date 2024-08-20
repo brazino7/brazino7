@@ -1,16 +1,16 @@
-## Hi there 👋
+ ## Boas vinda ao meu perfil 🖤
 
-<!--
-**brazino7/brazino7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -💲**Meu nome é Bruno Lourenço**
 
-Here are some ideas to get you started:
+ -🤑**Tenho 15 Anos Moro na Cidade de Braganey PR**
+ 
+ -Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espsço para mina organização e compartilhsr dos meus projetos desenvolvidos
+### Você entrara em contato comigo 📫
+
+@bruno.lourenco.santos11@escola.pr.gov.br
+
+@bruno_santo.x7
